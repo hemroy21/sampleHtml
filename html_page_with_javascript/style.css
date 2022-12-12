@@ -1,0 +1,25 @@
+.content{
+    margin:auto;
+    text-align: center;
+}
+#desc{
+    text-align: justify;
+}
+#vibe{
+    
+}
+#button{
+    border-radius: 10px;
+    padding:10px;
+    background-color: bisque;
+}
+#button:hover{
+    background-color: blueviolet;
+    color:burlywood;
+    cursor: pointer;
+}
+#button:active{
+    border-radius: 10px;
+    padding:10px;
+    background-color: bisque;
+}
